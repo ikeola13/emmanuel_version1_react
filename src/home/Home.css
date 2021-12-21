@@ -1,0 +1,14 @@
+.card {
+    width: 18rem;
+    text-align: center;
+    margin: 0 auto;
+}
+.card-body {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.row {
+    width: 100%;
+    margin: 0 auto;
+}

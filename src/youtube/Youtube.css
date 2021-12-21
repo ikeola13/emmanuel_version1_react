@@ -1,0 +1,20 @@
+.searchbar {
+    width: 80%;
+    margin: 0 auto;
+}
+.card {
+    margin-bottom: 20px !important;
+}
+.searchBtn {
+    cursor: pointer;
+}
+.modal-backdrop.show {
+    opacity: .8 !important;
+}
+.nothing {
+    text-align: center;
+    font-size: 30px;
+}
+.modal-title {
+    word-wrap: break-word;
+}

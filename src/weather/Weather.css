@@ -1,0 +1,29 @@
+.auth-box {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.auth-title {
+    margin-bottom: 30px;
+    text-align: center;
+}
+.regBtn {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.auth-dir {
+    margin-top: 20px;
+    text-align: center;
+}
+.other-days-row {
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px !important;
+    padding: 40px 20px;
+    border-radius: 20px;
+}
+
+.spacer {
+    padding: 10px;
+}
